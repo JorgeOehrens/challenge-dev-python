@@ -11,14 +11,19 @@ Prueba práctica "Medir conocimiento en consultas SQL y entendimiento de los dat
 ```plaintext
 Prueba-Desarrollador-FullStack-KH/
 ├── Pregunta1/
-│   ├── obtener_libros.py           # Script Python para obtener y guardar los datos de la API
-│   └── books.csv                   # Archivo CSV generado
+│   ├── main.py           # Script Python para realizar peticiones  | FastApi
+│   └── books.csv                   # Archivo CSV generado 
 ├── Pregunta2/
-│   └── consultas_sql.sql           # Archivo SQL con las consultas requeridas
+│   └── queries.sql           # Archivo SQL con las consultas requeridas
 ├── Pregunta3/
-│   ├── integracion_erp.py          # Script Python para integraciones ERP vía API
+│   ├── main.py          # Script Python para realizar peticiones | FastApi
+│   ├── erp.py          # Script Python para integraciones ERP 
 │   ├── docker-compose.yml          # Archivo Docker Compose para PostgreSQL
-│   ├── crear_tablas.sql            # SQL para la creación de las tablas
-│   └── actualizar_datos.py         # Script Python para la actualización diaria de datos
+│   ├── table.sql            # SQL para la creación de las tablas
+│   └── update.py         # Script Python para la actualización diaria de datos
 └── Pregunta4/
-    └── consultas_sql.sql           # Archivo SQL con las consultas requeridas
+    └── queries.sql           # Archivo SQL con las consultas requeridas
+
+```
+
+## Docker

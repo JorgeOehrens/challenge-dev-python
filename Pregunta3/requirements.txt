@@ -1,0 +1,8 @@
+requests
+psycopg2-binary
+schedule
+fastapi
+uvicorn
+schedule
+requests
+psycopg2-binary
