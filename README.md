@@ -1,10 +1,15 @@
 # Prueba-Desarrollador-FullStack-KH
+
+Jorge Oehrens
+jorge.oehrens@gmail.com
++569 50653521
+
 Prueba práctica "Medir conocimiento en consultas SQL y entendimiento de los datos en base a un modelo"
 
 ## Estructura proyecto
 
 ```plaintext
-reclutamiento/
+Prueba-Desarrollador-FullStack-KH/
 ├── Pregunta1/
 │   ├── obtener_libros.py           # Script Python para obtener y guardar los datos de la API
 │   └── books.csv                   # Archivo CSV generado
