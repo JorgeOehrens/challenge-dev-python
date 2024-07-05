@@ -27,3 +27,5 @@ Prueba-Desarrollador-FullStack-KH/
 ```
 
 ## Docker
+Archivo docker-compose.yml
+utilziado para api-libros , api-usuarios y las creacioens de bd
