@@ -11,21 +11,27 @@ Prueba práctica "Medir conocimiento en consultas SQL y entendimiento de los dat
 ```plaintext
 Prueba-Desarrollador-FullStack-KH/
 ├── Pregunta1/
-│   ├── main.py           # Script Python para realizar peticiones  | FastApi
-│   └── books.csv                   # Archivo CSV generado 
+│   ├── main.py          
+│   └── books.csv               
+│   └── Dockerfile             
+│   └── requirements.txt              
 ├── Pregunta2/
-│   └── queries.sql           # Archivo SQL con las consultas requeridas
+│   └── queries.sql           
 ├── Pregunta3/
-│   ├── main.py          # Script Python para realizar peticiones | FastApi
-│   ├── erp.py          # Script Python para integraciones ERP 
-│   ├── docker-compose.yml          # Archivo Docker Compose para PostgreSQL
-│   ├── table.sql            # SQL para la creación de las tablas
-│   └── update.py         # Script Python para la actualización diaria de datos
+│   ├── main.py          
+│   ├── erp.py        
+│   ├── docker-compose.yml         
+│   ├── table.sql            
+│   └── update.py         
+│   └── Dockerfile              
+│   └── requirements.txt     
 └── Pregunta4/
-    └── queries.sql           # Archivo SQL con las consultas requeridas
-
+│   └── queries.sql           
+│__docker-compose.yml
+|__README.md
 ```
 
 ## Docker
 Archivo docker-compose.yml
 utilziado para api-libros , api-usuarios y las creacioens de bd
+
