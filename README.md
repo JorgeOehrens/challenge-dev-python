@@ -1,8 +1,7 @@
-# Prueba-Desarrollador-FullStack-KH
+# Pruebas para desarrolladores
 
 Jorge Oehrens
 jorge.oehrens@gmail.com
-+569 50653521
 
 Prueba práctica "Medir conocimiento en consultas SQL y entendimiento de los datos en base a un modelo"
 
